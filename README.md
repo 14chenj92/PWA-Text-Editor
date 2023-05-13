@@ -59,6 +59,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Usage
 Application page: 
+https://github.com/14chenj92/PWA-Text-Editor
 
 <img src="/jate.png">
   
