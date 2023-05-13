@@ -60,7 +60,7 @@ THEN I should have proper build scripts for a webpack application
 ## Usage
 Application page: 
 
-<img src="Assets/jate.png">
+<img src="/jate.png">
   
 
 ## License
